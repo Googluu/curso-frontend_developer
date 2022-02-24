@@ -4,7 +4,7 @@ Practicas
 
 ## Live pages
 
- - [class#1](file:///C:/Users/sn3yd/curso-frontend_developer/html/clase1.html)
+ - [index](https://pikyr.github.io/cursoFrontendDeveloper/yardSale/index.html)
  - [account](https://pikyr.github.io/cursoFrontendDeveloper/yardSale/account.html)
  - [email-sent](https://pikyr.github.io/cursoFrontendDeveloper/yardSale/email-sent.html)
  - [login](https://pikyr.github.io/cursoFrontendDeveloper/yardSale/login.html)
